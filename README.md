@@ -8,7 +8,7 @@
 >
 1. Pull in terminal
 ```
-git clone https://github.com/bforbilly24/login-react-frontend-app.git
+git clone https://github.com/circleitdev/login-react-frontend-app.git
 ```
 >
 2.Installation
