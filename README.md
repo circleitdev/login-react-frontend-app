@@ -8,7 +8,7 @@
 >
 1. Pull in terminal
 ```
-git clone https://github.com/circleitdev/login-react-frontend-app.git
+git clone https://github.com/circleitdev/metrodata-academy-react-frontend-app.git
 ```
 >
 2.Installation
@@ -42,4 +42,4 @@ This project uses [`inter-ui`](https://www.npmjs.com/package/inter-ui) to automa
 
 ## Preview
 
-<img width="1200" alt="login_page" src="https://github.com/circleitdev/login-react-frontend-app/assets/93701344/89ae7365-95f5-403b-b62f-b5980ba8397f" >
+<img width="1200" alt="login_page" src="https://github.com/circleitdev/metrodata-academy-react-frontend-app/assets/152537296/0a1a7df1-e9f0-44b4-83b9-0af4af265f45" >
